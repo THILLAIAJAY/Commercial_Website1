@@ -334,7 +334,8 @@ h1, h2, h3 {
 }
 ```
 ## OUTPUT
-
-
+![alt text](<Screenshot 2026-02-02 220615.png>)
+![alt text](<Screenshot 2026-02-02 222225.png>)
+![alt text](<Screenshot 2026-02-02 222240.png>)
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
