@@ -1,7 +1,7 @@
 # Ex02 Commercial Website
 ## Date: 02-02-2026
-## Name: Eshwer M
-## Reg No: 212224040086
+## Name: Thillai Ajay L
+## Reg No: 212224040354
 ## AIM
 To create a commercial website using CSS Flexbox.
 
